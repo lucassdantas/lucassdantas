@@ -1,6 +1,6 @@
 ### Olá! 👋
-- 🌱 Atualmente estou procurando emprego na área do front end ou estágio como back end.
+- 🌱 Atualmente estou trabalhando na empresa R&D Marketing
 - 👯 Estou procurando colaborar com desenvolvimento de sites e aplicativos...
-- 🤔 Estou precisando de ajuda com um emprego kkk
+- 🤔 Graças a Deus consegui um trabalho! 
 - 📫 Contato: lucasdesousadantas@gmail.com
 - Meu Linkedin: https://www.linkedin.com/in/lucas-de-sousa-dantas/
