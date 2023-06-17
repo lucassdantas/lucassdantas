@@ -8,7 +8,7 @@
 #### 🌱 O que faço atualmente: 
 - Sou desenvolvedor web na empresa R&D Marketing Digital  
 - Estou iniciando o 4° módulo do curso técnico de informática do Senac
-- Estou desenvolvendo um sistema para finalizar o 3° módulo do curso
+- Estou desenvolvendo um sistema como projeto deste curso
 - Estou desenvolvendo um sistema para o trabalho na R&D
 
 #### :muscle: Desafios diários
