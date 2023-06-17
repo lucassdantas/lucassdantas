@@ -1,11 +1,9 @@
-### Olá! 👋 
+### Bem vindo(a)! 👋 
 ### Me chamo Lucas Dantas
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucassdantas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/lucas-de-sousa-dantas/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasdesousadantas@gmail.com)
-
-Bem vindo ao meu perfil do Github.
 
 #### 🌱 O que faço atualmente: 
 - Sou desenvolvedor web na empresa R&D Marketing Digital  
