@@ -24,7 +24,7 @@ Bem vindo ao meu perfil do Github.
 
 <h4 align="center">Visitas :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="right"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Linguagens :tongue:</h4>
 
