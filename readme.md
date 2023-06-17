@@ -23,5 +23,5 @@
 
 <h4 align="left">Visitas :eyes:</h4>
 
-<p align="left"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="lucassdantas :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="lucassdantas :: Visitor's Count" /></p>
 
