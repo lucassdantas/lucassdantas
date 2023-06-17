@@ -17,7 +17,7 @@
 - Estudar algo mais avançado que aquilo que é ensinado no curso
 
 #### :computer: Linguagens:
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" /></p>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
 
