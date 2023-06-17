@@ -19,6 +19,7 @@ Bem vindo ao meu perfil do Github.
 - Estudar algo mais avançado que aquilo que é ensinado no curso
 
 #### :computer: Linguagens:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
 
@@ -26,6 +27,3 @@ Bem vindo ao meu perfil do Github.
 
 <p align="right"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Linguagens :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
