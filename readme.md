@@ -17,11 +17,6 @@
 - Estudar algo mais avançado que aquilo que é ensinado no curso
 
 #### :computer: Linguagens:
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
-
-<h4 align="left">Visitas :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{lucassdantas}/count.svg" alt="lucassdantas :: Visitor's Count" /></p>
-
