@@ -13,8 +13,7 @@
 
 #### :muscle: Desafios diários
 - Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
-- Finalizar o sistema do curso até esse domingo (18/06)
-- Estudar algo mais avançado que aquilo que é ensinado no curso
+- Continuar estudando e evoluindo no conhecimento 
 
 #### :computer: Linguagens:
 <div style='display:flex;justify-content:space-between;align-items:center;'>
