@@ -16,8 +16,7 @@
 - Continuar estudando e evoluindo no conhecimento 
 
 #### :computer: Linguagens:
-<div style='display:flex;justify-content:space-between;align-items:center;'>
-  <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
-  <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
-</div>
+<img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
+<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
+
 
