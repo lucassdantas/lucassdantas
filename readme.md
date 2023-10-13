@@ -7,9 +7,9 @@
 
 #### 🌱 O que faço atualmente: 
 - Sou desenvolvedor web na empresa R&D Marketing Digital  
-- Estou no 4° módulo do curso técnico de informática do Senac
+- Estou no 5° módulo do curso técnico de informática do Senac
 - Liderei a equipe de back-end num sistema de estoque desenvolvido durante o curso técnico
-- Estou estudando o desenvolvimento de plugins no WordPress
+- Estou estudando Angular e Java Spring Boot
 
 #### :muscle: Desafios diários
 - Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
