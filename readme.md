@@ -7,9 +7,9 @@
 
 #### 🌱 O que faço atualmente: 
 - Sou desenvolvedor web na empresa R&D Marketing Digital  
-- Estou no 5° módulo do curso técnico de informática do Senac
+- Su técnico em informática pelo Senac RJ
 - Liderei a equipe de back-end num sistema de estoque desenvolvido durante o curso técnico
-- Sou futuro aluno de engenharia de software na faculdade Descomplica
+- Curso engenharia de software na faculdade Descomplica
 - Estou estudando React e React Native
 
 #### :muscle: Desafios diários
