@@ -10,7 +10,7 @@
 - Sou técnico em informática pelo Senac RJ
 - Liderei a equipe de back-end num sistema de estoque desenvolvido durante o curso técnico
 - Curso engenharia de software na faculdade Descomplica
-- Estou estudando React e React Native
+- Estou estudando NextJS
 
 #### :muscle: Desafios diários
 - Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
