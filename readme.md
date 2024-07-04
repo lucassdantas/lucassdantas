@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasdesousadantas@gmail.com)
 
 #### 🌱 O que faço atualmente: 
-- Sou desenvolvedor web na empresa Deer Designer
+- Sou desenvolvedor web
 - Sou técnico em informática pelo Senac RJ
 - Liderei a equipe de back-end num sistema de estoque desenvolvido durante o curso técnico
 - Curso engenharia de software na faculdade Descomplica
