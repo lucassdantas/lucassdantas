@@ -7,7 +7,7 @@
 #### 🌱 O que faço atualmente: 
 - Sou desenvolvedor web
 - Sou técnico em informática pelo Senac RJ
-- Liderei a equipe de back-end num sistema de estoque desenvolvido durante o curso técnico
+- Liderei a equipe em projetos, destaco a de back-end num sistema de estoque desenvolvido durante o curso técnico
 - Curso engenharia de software na faculdade Descomplica
 - Estou estudando e realizando projetos remunerados com NextJS
 
