@@ -1,8 +1,8 @@
 ### Bem vindo(a)! 👋 
 ### Me chamo Lucas Dantas
 
-![United States](README.en.md)
-
+[![United States](README.en.md)](https://github.com/lucassdantas/lucassdantas/blob/main/readme.en.md)
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucassdantas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
 
