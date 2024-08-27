@@ -1,7 +1,7 @@
 ### Welcome! 👋 
 ### My name is Lucas Dantas
 
-[![USA Flag](https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png)](README.md)
+[![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")](https://github.com/lucassdantas/lucassdantas/blob/main/readme.en.md)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucassdantas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
