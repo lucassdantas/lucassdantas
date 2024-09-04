@@ -8,7 +8,7 @@
 #### 🌱 O que faço atualmente: 
 - Atuo com desenvolvimento web há mais de 3 anos
 - Faço projetos em NextJS, reactJS e PHP na RD Exclusive e como freelancer
-- Já liderei equipes, planejei projetos, estipulei prazos e valores.
+- Em freelances, lidero equipes, planejo projetos, estipulo prazos e valores.
 - Sou técnico em informática pelo Senac RJ
 - Curso engenharia de software na faculdade Descomplica
 
