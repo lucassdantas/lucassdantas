@@ -7,11 +7,11 @@
 
 #### 🌱 O que faço atualmente: 
 - Atuo com desenvolvimento web há mais de 3 anos
-- Faço projetos em NextJS, reactJS e PHP na RD Exclusive e como freelancer
+- Faço projetos em Wordpress, NextJS, reactJS e PHP na RD Exclusive e como freelancer
 - Desenvolvo plugins customizados para Wordpress
 - Em freelances, lidero equipes, planejo projetos, estipulo prazos e valores.
 - Sou técnico em informática pelo Senac RJ
-- Curso engenharia de software na faculdade Descomplica
+- Curso engenharia de software na faculdade Descomplica (4 de 8 períodos)
 
 #### :muscle: Desafios diários
 - Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
