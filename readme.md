@@ -6,8 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
 
 #### 🌱 O que faço atualmente: 
-- Atuo com desenvolvimento web há mais de 3 anos
-- Faço projetos em Wordpress, NextJS, reactJS e PHP
+- Atuo com desenvolvimento web há mais de 5 anos
+- Faço projetos em PHP, Next e ReactJS, React Native e Wordpress
 - Desenvolvo plugins customizados para Wordpress
 - Em freelances, lidero equipes, planejo projetos, estipulo prazos e valores.
 - Sou técnico em informática pelo Senac RJ
