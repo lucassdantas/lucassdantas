@@ -6,11 +6,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
 
 #### 🌱 What I'm currently doing:
-- I've been working with web development for over 3 years
-- I work on projects in NextJS, ReactJS, and PHP at RD Exclusive and as a freelancer
+- I've been working with web development for over 5 years
+- I work on projects in PHP, NextJS and ReactJS, React Native and Wordpress 
+- I develop custom plugins to Wordpress
 - I have led teams, planned projects, set deadlines and budgets.
 - I'm a computer technician by Senac RJ
-- I'm studying software engineering at Descomplica College
+- I'm studying software engineering at Descomplica College (4/8 periods)
 
 #### :muscle: Daily challenges
 - Not letting daily tasks take me away from God, but bringing me closer to Him through them.
