@@ -2,74 +2,71 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D94E3,100:009688&height=200&section=header&text=Lucas%20Dantas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Architecture%20%7C%20Messaging%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/lucassdantas/lucassdantas/blob/main/readme.en.md">
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" title="English version" alt="United States"/>
+<a href="https://github.com/lucassdantas/lucassdantas/blob/main/README.md">
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" title="Versão em português" alt="Brazil"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/lucas-de-sousa-dantas/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/lucassdantas/portfolio">
-  <img src="https://img.shields.io/badge/-Portfólio-1D94E3?style=flat&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Portfolio-1D94E3?style=flat&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=lucassdantas&color=1D94E3&style=flat&label=Visualizações+do+perfil" />
+<img src="https://komarev.com/ghpvc/?username=lucassdantas&color=1D94E3&style=flat&label=Profile+views" />
 
 </div>
 
 <br>
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou desenvolvedor full stack no Rio de Janeiro, com **4+ anos de experiência** entregando web apps, APIs, automações e sistemas críticos — de chatbots com IA a sistemas da área da saúde.
+Full stack developer based in Rio de Janeiro, with **4+ years of experience** delivering web apps, APIs, automations, and critical systems — from AI chatbots to healthcare systems.
 
-Gosto de resolver problemas de **arquitetura e escala**: filas e mensageria, consistência de dados (CAP theorem), integrações entre sistemas e otimização de custo — seja em query SQL, seja em consumo de tokens de IA.
+I enjoy solving **architecture and scale** problems: queues and messaging, data consistency (CAP theorem), system integrations, and cost optimization — whether in SQL queries or AI token consumption.
 
 ```
 const lucas = {
   role: "Full Stack Developer",
   location: "Rio de Janeiro, BR",
-  focus: ["Clean Architecture", "SOLID", "Messaging (Kafka/Filas)", "Custo & Performance"],
-  currentlyLearning: "Sempre algo novo 🚀",
-  funFact: "Reduzi o consumo de tokens de IA de um chatbot em ~70%"
+  focus: ["Clean Architecture", "SOLID", "Messaging (Kafka/Queues)", "Cost & Performance"],
+  currentlyLearning: "Always something new 🚀",
+  funFact: "Cut a chatbot's AI token usage by ~70%"
 };
 ```
 
 <br>
 
-## 🌱 O que faço atualmente
+## 🌱 What I'm currently doing
 
-- 🏥 **Desenvolvedor Full Stack** em sistemas críticos da área da saúde (gestão e rastreabilidade de CME)
-- 🔀 Lidero a migração de chatbots corporativos de fluxos **probabilísticos (n8n)** para fluxos **determinísticos em Python + FastAPI**, reduzindo o consumo de tokens de IA de ~10 mil para 2–4 mil por fluxo
-- 🤖 Implemento **MCPs** para consulta à base de conhecimento da empresa via IA, com controle de acesso por perfil
-- 💻 Em paralelo, atendo **clientes freelance** nacionais e internacionais com sistemas, landing pages e MVPs em Next.js/React/PHP
-- 🎓 Cursando **Bacharelado em Engenharia de Software** (Faculdade Descomplica, CR 9.8) · **Técnico em Informática** pelo Senac RJ
+- 🏥 **Full Stack Developer** on critical healthcare systems (CME management and traceability)
+- 🔀 Leading the migration of corporate chatbots from **probabilistic flows (n8n)** to **deterministic flows in Python + FastAPI**, cutting AI token usage from ~10k to 2–4k per flow
+- 🤖 Implementing **MCPs** for querying the company's knowledge base via AI, with role-based access control
+- 💻 In parallel, working with national and international **freelance clients** on systems, landing pages, and MVPs using Next.js/React/PHP
+- 🎓 Pursuing a **Bachelor's degree in Software Engineering** (Faculdade Descomplica, GPA 9.8) · **Technical degree in Information Technology** from Senac RJ
 
 <br>
 
-## 🎯 Como trabalho
+## 🎯 How I work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Arquitetura consciente**
-System design, clean architecture, SOLID e design patterns aplicados no dia a dia — não como teoria de curso, mas como ferramenta de decisão.
+**🏗️ Conscious architecture**
+System design, clean architecture, SOLID, and design patterns applied day to day — not as course theory, but as a decision-making tool.
 
-**📨 Mensageria & distribuição**
-Filas, Kafka, processamento assíncrono e trade-offs de consistência (CAP theorem) na prática, em integrações entre sistemas.
+**📨 Messaging & distribution**
+Queues, Kafka, asynchronous processing, and consistency trade-offs (CAP theorem) in practice, across system integrations.
 
 </td>
 <td width="50%" valign="top">
 
-**💰 Custo sob controle**
-Otimização que aparece na fatura — de queries SQL a consumo de tokens de IA.
+**💰 Cost under control**
+Optimizations that show up on the bill — from SQL queries to AI token consumption.
 
-**✅ Processo bem definido**
-Rituais ágeis, testes (unitário/integração/regressão) e CI/CD.
+**✅ Well-defined process**
+Agile rituals, testing (unit/integration/regression), and CI/CD.
 
 </td>
 </tr>
@@ -77,9 +74,9 @@ Rituais ágeis, testes (unitário/integração/regressão) e CI/CD.
 
 <br>
 
-## 🗣️ Idiomas
+## 🗣️ Languages
 
-`Português` Nativo &nbsp;·&nbsp; `Inglês` C1 &nbsp;·&nbsp; `Espanhol` B1 &nbsp;·&nbsp; `Francês` A1
+`Portuguese` Native &nbsp;·&nbsp; `English` C1 &nbsp;·&nbsp; `Spanish` B1 &nbsp;·&nbsp; `French` A1
 
 <br>
 
@@ -122,19 +119,19 @@ Rituais ágeis, testes (unitário/integração/regressão) e CI/CD.
 
 <br>
 
-## :muscle: Desafios diários
+## :muscle: Daily challenges
 
-- Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
-- Continuar estudando e evoluindo no conhecimento, tanto técnico quanto intelectual.
+- Not letting daily tasks pull me away from God, but drawing closer to Him through them.
+- Continuing to study and grow in knowledge, both technical and intellectual.
 
 <br>
 
 <div align="center">
 
-### Vamos trocar uma ideia?
+### Let's connect
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-1D94E3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/lucassdantas/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1D94E3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/lucassdantas/portfolio)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:1D94E3&height=100&section=footer" width="100%"/>
 
