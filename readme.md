@@ -1,32 +1,32 @@
-### Bem vindo(a)! 👋
-### Me chamo Lucas Dantas
+### Welcome! 👋
+### My name is Lucas Dantas
 
 [![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")](https://github.com/lucassdantas/lucassdantas/blob/main/readme.en.md)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucassdantas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-sousa-dantas/)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-1D94E3?style=flat&logo=vercel&logoColor=white)](https://github.com/lucassdantas/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1D94E3?style=flat&logo=vercel&logoColor=white)](https://github.com/lucassdantas/portfolio)
 
-Desenvolvedor full stack no Rio de Janeiro, com 4+ anos de experiência entregando web apps, APIs, automações e sistemas críticos — de chatbots com IA a sistemas da área da saúde. Foco em arquitetura limpa, custo sob controle e código que dura.
+Full stack developer based in Rio de Janeiro, with 4+ years of experience delivering web apps, APIs, automations, and critical systems — from AI chatbots to healthcare systems. Focused on clean architecture, cost control, and code built to last.
 
-#### 🌱 O que faço atualmente
-- Atuo como **Desenvolvedor Full Stack na CMEXX**, em sistemas críticos de saúde (gestão e rastreabilidade de CME)
-- Lidero a migração de chatbots corporativos de fluxos probabilísticos (n8n) para fluxos determinísticos em **Python + FastAPI**, reduzindo o consumo de tokens de IA de ~10 mil para 2–4 mil por fluxo
-- Implemento **MCPs** para consulta à base de conhecimento da empresa via IA, com controle de acesso por perfil
-- Em paralelo, atendo **clientes freelance** nacionais e internacionais com sistemas, landing pages e MVPs em Next.js/React/PHP
-- Curso **Bacharelado em Engenharia de Software** na Faculdade Descomplica (CR 9.8) e sou **Técnico em Informática** pelo Senac RJ
+#### 🌱 What I'm currently doing
+- Working as a **Full Stack Developer at CMEXX**, on critical healthcare systems (CME management and traceability)
+- Leading the migration of corporate chatbots from probabilistic flows (n8n) to deterministic flows in **Python + FastAPI**, cutting AI token usage from ~10k to 2–4k per flow
+- Implementing **MCPs** for querying the company's knowledge base via AI, with role-based access control
+- In parallel, working with national and international **freelance clients** on systems, landing pages, and MVPs using Next.js/React/PHP
+- Pursuing a **Bachelor's degree in Software Engineering** at Faculdade Descomplica (GPA 9.8) and hold a **Technical degree in Information Technology** from Senac RJ
 
-#### 🎯 Como trabalho
-- Arquitetura consciente: system design, clean architecture, SOLID e design patterns aplicados no dia a dia
-- Custo sob controle: otimização que aparece na fatura — de queries SQL a consumo de tokens de IA
-- Automação de processos: n8n, filas e mensageria, integrações e IA a serviço dos setores da empresa
-- Processo bem definido: rituais ágeis, testes (unitário/integração/regressão) e CI/CD
+#### 🎯 How I work
+- Conscious architecture: system design, clean architecture, SOLID, and design patterns applied in day-to-day work
+- Cost under control: optimizations that show up on the bill — from SQL queries to AI token consumption
+- Process automation: n8n, queues and messaging, integrations, and AI in service of business departments
+- Well-defined process: agile rituals, testing (unit/integration/regression), and CI/CD
 
-#### 🗣️ Idiomas
-Português (nativo) · Inglês (C1) · Espanhol (B1) · Francês (A1)
+#### 🗣️ Languages
+Portuguese (native) · English (C1) · Spanish (B1) · French (A1)
 
-#### :muscle: Desafios diários
-- Não deixar os afazeres diários me afastarem de Deus, mas me unir a Ele através deles.
-- Continuar estudando e evoluindo no conhecimento, tanto técnico quanto intelectual.
+#### :muscle: Daily challenges
+- Not letting daily tasks pull me away from God, but drawing closer to Him through them.
+- Continuing to study and grow in knowledge, both technical and intellectual.
 
 #### :computer: Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,6 +45,6 @@ Português (nativo) · Inglês (C1) · Espanhol (B1) · Francês (A1)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-#### 📊 Linguagens & estatísticas
+#### 📊 Languages & stats
 <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdantas&langs_count=10&theme=tokyonight&layout=compact" alt="lucassdantas :: Top Langs" />
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=lucassdantas&show_icons=true&hide_border=true" />
