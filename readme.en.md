@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D94E3,100:009688&height=200&section=header&text=Lucas%20Dantas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Architecture%20%7C%20Messaging%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D94E3,100:009688&height=200&section=header&text=Lucas%20Dantas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%2FLLM%20Integrations%20%7C%20Software%20Architecture&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/lucassdantas/lucassdantas/blob/main/README.md">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" title="Versão em português" alt="Brazil"/>
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/-Portfolio-1D94E3?style=flat&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=lucassdantas&color=1D94E3&style=flat&label=Profile+views" />
 
 </div>
 
@@ -21,17 +20,17 @@
 
 ## 👋 About me
 
-Full stack developer based in Rio de Janeiro, with **4+ years of experience** delivering web apps, APIs, automations, and critical systems — from AI chatbots to healthcare systems.
+I'm a full-stack software engineer based in Rio de Janeiro, Brazil, with **6 years of experience** shipping web applications, APIs, AI (LLM) integrations and e-commerce — from corporate chatbots to mission-critical healthcare systems.
 
-I enjoy solving **architecture and scale** problems: queues and messaging, data consistency (CAP theorem), system integrations, and cost optimization — whether in SQL queries or AI token consumption.
+I enjoy solving **architecture, performance and cost** problems: testable code, reliable integrations between systems and optimizations that show up on the bill — whether in a SQL query or in AI token usage.
 
-```
+```js
 const lucas = {
-  role: "Full Stack Developer",
+  role: "Full-Stack Software Engineer",
   location: "Rio de Janeiro, BR",
-  focus: ["Clean Architecture", "SOLID", "Messaging (Kafka/Queues)", "Cost & Performance"],
+  focus: ["AI/LLM Integrations", "Clean Architecture", "Testing", "Performance & Cost"],
   currentlyLearning: "Always something new 🚀",
-  funFact: "Cut a chatbot's AI token usage by ~70%"
+  funFact: "Cut a corporate chatbot's AI token usage by ~92%"
 };
 ```
 
@@ -39,11 +38,29 @@ const lucas = {
 
 ## 🌱 What I'm currently doing
 
-- 🏥 **Full Stack Developer** on critical healthcare systems (CME management and traceability)
-- 🔀 Leading the migration of corporate chatbots from **probabilistic flows (n8n)** to **deterministic flows in Python + FastAPI**, cutting AI token usage from ~10k to 2–4k per flow
-- 🤖 Implementing **MCPs** for querying the company's knowledge base via AI, with role-based access control
-- 💻 In parallel, working with national and international **freelance clients** on systems, landing pages, and MVPs using Next.js/React/PHP
-- 🎓 Pursuing a **Bachelor's degree in Software Engineering** (Faculdade Descomplica, GPA 9.8) · **Technical degree in Information Technology** from Senac RJ
+- 💻 **Full-Stack & AI Developer at RD Exclusive** (remote): web apps, AI integrations and e-commerce for dozens of clients
+- ⚡ Rebuilt a corporate website from WordPress into hand-written code: **−50% LCP** for real mobile users and a **100/100** desktop performance score
+- 🛒 Turned loose code snippets on an e-commerce store into a tested plugin, bringing **homepage TTFB from ~2 s to ~165 ms (−92%)**
+- 💳 Built a **WooCommerce credit-card payment method** integrated with a bank, with card data never touching the store's server
+- ✅ Wrote **474 automated tests** that run in ~5 s and set up GitHub Actions deployment with automatic rollback
+- 🎓 Pursuing a **B.Sc. in Software Engineering** (Descomplica, GPA 9.8) · **IT Technician** degree from Senac RJ
+
+<br>
+
+## 🤖 Before: applied AI in healthcare systems
+
+- 🔀 Migrated corporate chatbots from **n8n** flows to a **deterministic state machine in Python + FastAPI**, cutting **~92% of token usage**
+- 🔐 Built **MCP servers** so an AI assistant could query company data with role-based access control
+
+<br>
+
+## 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Portfolio](https://portfolio.devdantas.com.br/) | Interactive portfolio in 4 languages, with WebGL particles, a terminal and a custom chatbot | Next.js · React · TypeScript · WebGL |
+| [Learn with Histories](https://learn-with-histories.vercel.app) | Learn languages by reading short stories, with translations hidden until you need them | Next.js · TypeScript · Playwright |
+| Rio Informa | Community-driven urban safety app for Rio de Janeiro, with a feed and a neighborhood map | React Native · Supabase · MapLibre |
 
 <br>
 
@@ -53,20 +70,20 @@ const lucas = {
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Conscious architecture**
-System design, clean architecture, SOLID, and design patterns applied day to day — not as course theory, but as a decision-making tool.
+**🏗️ Thoughtful architecture**
+System design, clean architecture, SOLID and design patterns applied day to day — not as course theory, but as a decision-making tool.
 
-**📨 Messaging & distribution**
-Queues, Kafka, asynchronous processing, and consistency trade-offs (CAP theorem) in practice, across system integrations.
+**🔗 Reliable integrations**
+APIs, webhooks and idempotent synchronization with automatic retries, so no data gets lost between systems.
 
 </td>
 <td width="50%" valign="top">
 
 **💰 Cost under control**
-Optimizations that show up on the bill — from SQL queries to AI token consumption.
+Optimizations that show up on the bill — from SQL queries to AI token usage.
 
 **✅ Well-defined process**
-Agile rituals, testing (unit/integration/regression), and CI/CD.
+Testing (unit, integration and e2e), static analysis, documentation and CI/CD with rollback.
 
 </td>
 </tr>
@@ -90,25 +107,9 @@ Agile rituals, testing (unit/integration/regression), and CI/CD.
 
 <div align="center">
 
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucassdantas&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucassdantas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
